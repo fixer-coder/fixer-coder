@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fixer-coder
 - 👀 I’m interested in DevOps Engineer Roles
-- 🌱 I’m currently have experience with the following technology
+- 🌱 I currently have experience with the following technology
   -  Terraform
   -  Python
   -  Bash
