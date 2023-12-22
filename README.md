@@ -20,7 +20,8 @@
   -  ArgoCd
   -  Agile Methodologies
 
-- 📫 How to reach me dejiosagie@yahoo.com
+- 📫 How to reach me :
+  - Email: dejiosagie@yahoo.com
 
 <!---
 fixer-coder/fixer-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
